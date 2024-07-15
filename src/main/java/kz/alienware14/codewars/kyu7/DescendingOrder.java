@@ -1,6 +1,4 @@
-package kz.alienware14.kyu7;
-
-import java.util.Arrays;
+package kz.alienware14.codewars.kyu7;
 
 /** Descending Order
 

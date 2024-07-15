@@ -1,4 +1,4 @@
-package kz.alienware14.kyu8;
+package kz.alienware14.codewars.kyu8;
 
 /** Double Char
 
